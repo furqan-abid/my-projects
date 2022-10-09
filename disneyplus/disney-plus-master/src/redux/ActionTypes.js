@@ -1,0 +1,6 @@
+export const ADD_MOVIES="ADD_MOVIES";
+export const MOVIES_LOADING="MOVIES_LOADING";
+export const MOVIES_FAILED="MOVIES_FAILED";
+
+export const USER_LOGIN="USER_LOGIN";
+export const USER_SIGNOUT="USER_SIGNOUT";

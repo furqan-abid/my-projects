@@ -1,0 +1,22 @@
+export const veiwersData=[
+    {
+        image:"/images/viewers-disney.png",
+        vedio:"/videos/1564674844-disney.mp4"
+    },
+    {
+        image:"/images/viewers-pixar.png",
+        vedio:"/videos/1564676714-pixar.mp4"
+    },
+    {
+        image:"/images/viewers-marvel.png",
+        vedio:"/videos/1564676115-marvel.mp4"
+    },
+    {
+        image:"/images/viewers-starwars.png",
+        vedio:"/videos/1608229455-star-wars.mp4"
+    },
+    {
+        image:"/images/viewers-national.png",
+        vedio:"/videos/1564676296-national-geographic.mp4"
+    }
+]
